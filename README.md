@@ -1,6 +1,6 @@
 # heyflutter
 
-A new Flutter project.
+A new Flutter tool used to add packages to different flutter directories 
 
 ## Golden Tests
 
